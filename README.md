@@ -1,2 +1,2 @@
 # Eigenvalue-jewellery
-Insert Eigenvalue and get customized jewellery design
+Insert Eigenvalue (Z) in the complex number form and get the customised sketch geometry for design of a pendent with real and imagenary axes.
